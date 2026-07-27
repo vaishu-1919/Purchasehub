@@ -1,0 +1,46 @@
+{
+  "purchases": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "title": "keyboard",
+      "quantity": 2,
+      "status": "Pending",
+      "id": "jbbzIjrvHh0"
+    },
+    {
+      "title": "mouse",
+      "quantity": 2,
+      "status": "Approved",
+      "id": "OcMolfmQdJA"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "1",
+      "name": "ABC Technologies",
+      "contact": "9876543210",
+      "email": "abc@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "XYZ Solutions",
+      "contact": "9123456789",
+      "email": "xyz@gmail.com",
+      "status": "Active"
+    },
+    {
+      "name": "kl rahul ",
+      "contact": "9898989898",
+      "email": "rahul@gmail.com",
+      "status": "Inactive",
+      "id": "QXnWajb7oyQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
